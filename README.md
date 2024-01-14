@@ -5,3 +5,5 @@ Additional features include:
 - Additionally, one can grab the phone with the mouse and move it to any location on the screen.
 
 Copyright © Bartosz Kutnik, All rights reserved 2024
+Project view:
+https://unrestt.github.io/Iphone-7-Html-Css-Js/
